@@ -12,7 +12,7 @@ We explored two solutions to address this problem, the first by creating a CNN a
 An in-depth description of these models and the solutions adopted in this challenge can be found in the pdf 'Report Image Classification'. 
 We finished the challenge with 90% accuracy on the test set
 
-**Timesiries Forecasting**
+**Timeseries Forecasting**
 
 The second challenge concerns Timeseries forecasting, it was  required to predict future samples of a multivariate time series. The goal was to design and implement forecasting models to learn how to exploit past observations in the input sequence to correctly predict the future. 
 
