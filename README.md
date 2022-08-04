@@ -1,7 +1,7 @@
 # AN2DL_Challenges_2021
 Repository of the two challenges made during the course of Artifical Neural Networks and Deep Learning at Politecinco di Milano in 2021
 
-**Image classification**
+**Image classification ([Report](https://github.com/Lorenzoncina/AN2DL_Challenges_2021/blob/main/Image_Classification_Challenge/Report%20Image%20Classification.pdf))**
 
 The first challenge concerns the classification of images, in particular it was required to classify images of leafs (like the ones in the example images below), which are divided into categories according to the species of the plant to which they belong. Being a classification problem, given an image, the goal is to predict the correct class label.
 
@@ -12,7 +12,7 @@ We explored two solutions to address this problem, the first by creating a CNN a
 An in-depth description of these models and the solutions adopted in this challenge can be found in the pdf 'Report Image Classification'. 
 We finished the challenge with 90% accuracy on the test set
 
-**Timeseries Forecasting**
+**Timeseries Forecasting ([Report](https://github.com/Lorenzoncina/AN2DL_Challenges_2021/blob/main/Timeseries_Forecasting_Challenge/Report%20Time%20Series%20Forecasting.pdf))**
 
 The second challenge concerns Timeseries forecasting, it was  required to predict future samples of a multivariate time series. The goal was to design and implement forecasting models to learn how to exploit past observations in the input sequence to correctly predict the future. 
 
